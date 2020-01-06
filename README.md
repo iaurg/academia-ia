@@ -1,5 +1,7 @@
 # Academia IA Microsoft - Introdução IA
 
+Acesse o material [aqui](https://www.microsoft.com/pt-br/academia)
+
 A Inteligência Artificial (IA) é uma forma de ampliar a capacidade humana e permitir que possamos nos concentrar em atividades como criatividade, empatia e inventividade de nossa mente para que possamos trabalhar em um mercado futuro mais centrado.
 
 Machine Learning é um subconjunto de IA que permite um sistema aprender através de dados, ao invés de aprender via programação explícita. No inicio do processo é feita uma Modelagem que consiste em obter os dados, trabalhar com eles e entender como esses dados funcionam, em alguns momentos são necessários alguns filtros e reestruturação para ter uma base sólida. São esses dados quem irão modelar o funcionamento de sua IA, cuide bem deles.
@@ -10,17 +12,17 @@ Inicialmente os tipos de aprendizados são os seguintes:
 
 ### Supervisionado
 No aprendizado supervisionado o ML recebe uma previsão do que ele precisa retornar.
-- Regression
+- Regression:
   Qual seria o valor? Qual seria a nota?
-- Classification
+- Classification:
   Qual classe isso pertence?
 ### Não supervisionada
 No aprendizado não supervisionado o ML analisa os dado e define o que ele precisa retornar como resultado.
-- Clustering
+- Clustering:
   Existem grupos distintos? Qual grupo pertence?
-- Anomaly Detection
+- Anomaly Detection:
   Esse comportamento é estranho?
-- Recomendation
+- Recomendation:
   Qual opção devo escolher?
 
 Experimento criado para prever o preço de um veículo:
