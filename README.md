@@ -44,5 +44,3 @@ Caso já possua uma base de dados para alimentar o bot é excelente, faça uma c
 
 ### Visão Computacional
 Responsável por identificar imagens e cenas dentro de foto ou vídeos e extrair informações desse contexto.
-
-### Criação de bot com QnA Maker
